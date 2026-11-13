@@ -1,0 +1,28 @@
+{
+  "title": "tell us what you're doing by hand.",
+  "lead": "a few lines is enough. what the task is, which tools it touches, how often it happens.",
+  "form": {
+    "name": { "label": "your name", "placeholder": "ataullah" },
+    "email": { "label": "email", "placeholder": "you@company.com" },
+    "task": { "label": "the task", "placeholder": "every order gets copied from shopify into a sheet, then someone sends an invoice..." },
+    "budget": {
+      "label": "rough budget (optional)",
+      "options": ["not sure yet", "under $500", "$500 to $2,000", "$2,000 to $5,000", "more than $5,000"]
+    },
+    "submit": "send it",
+    "sending": "sending..."
+  },
+  "success": { "title": "got it.", "body": "we'll reply within one working day." },
+  "errors": {
+    "invalid": "check your email, and describe the task in a sentence or two.",
+    "notConfigured": "the form isn't connected yet. email us directly instead:",
+    "failed": "that didn't send. try again, or email us directly:"
+  },
+  "helpsTitle": "what helps",
+  "helps": [
+    "what the task is, in one sentence",
+    "which tools or sites it touches",
+    "who does it today, and how often",
+    "anything that has gone wrong before"
+  ]
+}

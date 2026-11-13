@@ -1,0 +1,187 @@
+{
+  "sections": {
+    "hero": true,
+    "problems": true,
+    "build": true,
+    "process": true,
+    "work": true,
+    "testimonials": false,
+    "faq": true,
+    "cta": true
+  },
+  "hero": {
+    "badge": "built in dhaka",
+    "line1": "your business",
+    "line2": "still runs on",
+    "rotate": [
+      "spreadsheets?",
+      "inboxes?",
+      "sticky notes?"
+    ],
+    "rotateMs": 2300,
+    "lead": "we build the website, and the software behind it. so the work stops living in spreadsheets, inboxes and someone’s head.",
+    "primary": {
+      "label": "tell us the task",
+      "href": "/contact"
+    },
+    "secondary": {
+      "label": "see what we built",
+      "href": "/projects"
+    }
+  },
+  "problems": {
+    "title": "the usual mess",
+    "sub": "none of it is broken enough to fix this week. all of it costs hours every week.",
+    "items": [
+      {
+        "title": "orders live in a spreadsheet",
+        "body": "someone copies every order into a sheet, every day. it works until they're off sick.",
+        "tone": "paper"
+      },
+      {
+        "title": "payments don't talk to the store",
+        "body": "the customer pays then you mark the order paid. multiple tabs for one sale.",
+        "tone": "sun"
+      },
+      {
+        "title": "leads sit in an inbox",
+        "body": "the contact form works. nobody opens the inbox until thursday.",
+        "tone": "ink"
+      }
+    ]
+  },
+  "build": {
+    "title": "what we build",
+    "sub": "websites, automations and small tools that do a job so a person doesn’t have to. here’s what we build, and what we turn down.",
+    "yesLabel": "we build",
+    "noLabel": "we say no to",
+    "items": [
+      {
+        "title": "websites and apps",
+        "body": "stores, booking pages, order forms, customer portals. built to take orders and leads, not just sit there looking nice."
+      },
+      {
+        "title": "payments and checkout",
+        "body": "connect a local gateway to shopify, woocommerce or your own store. orders mark themselves paid."
+      },
+      {
+        "title": "automations",
+        "body": "when something happens in one tool, the next thing happens in another. orders into your sheet, leads to the right person, stock levels that stay true."
+      },
+      {
+        "title": "scheduled jobs and scrapers",
+        "body": "price checks, report pulls, anything that should run at 6am without you."
+      },
+      {
+        "title": "browser extensions and internal tools",
+        "body": "small tools that live in the tab your team already works in, or an admin page that replaces the shared spreadsheet."
+      },
+      {
+        "title": "dashboards",
+        "body": "the five numbers you check every morning, on one page."
+      }
+    ],
+    "no": [
+      {
+        "title": "redesigns on their own",
+        "body": "a new look doesn't remove any manual work."
+      },
+      {
+        "title": "seo packages",
+        "body": "not what we do."
+      },
+      {
+        "title": "projects that need a 40-page spec first",
+        "body": "we'd rather start with one call and one task."
+      },
+      {
+        "title": "work nobody on your side will own",
+        "body": "someone has to use it after we leave."
+      }
+    ]
+  },
+  "process": {
+    "title": "how a project goes",
+    "sub": "four steps. no kickoff theatre.",
+    "steps": [
+      {
+        "title": "watch the task",
+        "body": "one call. we see how it's done today, who does it, and where it goes wrong."
+      },
+      {
+"title": "we build and test it",
+"body": "we build what you signed off on, then run it on your real orders and forms before it goes live. not made-up ones."
+      },
+      {
+        "title": "hand it over",
+        "body": "code, docs and a log you can read. you own all of it."
+      }
+    ]
+  },
+  "work": {
+    "title": "recent work",
+    "cta": "all projects"
+  },
+  "testimonials": {
+    "title": "happy clients",
+    "sub": "what people say after the manual work is gone.",
+    "sample": true,
+    "items": [
+      {
+        "quote": "orders used to be copied into a sheet by hand every evening. now they just show up, already paid. i forgot that task existed.",
+        "name": "client name",
+        "role": "store owner, dhaka",
+        "tone": "paper"
+      },
+      {
+        "quote": "he asked to watch us do the task before writing anything. the result matched how we actually work, not how we thought we did.",
+        "name": "client name",
+        "role": "operations lead",
+        "tone": "sun"
+      },
+      {
+        "quote": "when a payment callback failed we got a plain message saying what happened and what to do. no guessing, no digging through logs.",
+        "name": "client name",
+        "role": "founder, online shop",
+        "tone": "paper"
+      }
+    ]
+  },
+  "faq": {
+    "title": "fair questions",
+    "items": [
+      {
+        "q": "how much does it cost?",
+        "a": "a fixed price per project, quoted after the first call. no hourly surprises and no retainer unless you ask for one."
+      },
+      {
+        "q": "how long does it take?",
+        "a": "most single automations take one to three weeks. bigger integrations take longer, and we say so before you pay anything."
+      },
+      {
+        "q": "what do you build with?",
+        "a": "next.js, node, python, and whatever your store already runs on. we don't rebuild things that work."
+      },
+      {
+        "q": "who owns the code?",
+        "a": "you do. repo, docs and credentials are handed over at the end."
+      },
+      {
+        "q": "what happens when something breaks?",
+        "a": "every run writes a log. failures send a plain message saying what failed and what to do about it."
+      },
+      {
+        "q": "do you work with clients outside bangladesh?",
+        "a": "yes. calls on meet or whatsapp, invoices in usd or bdt."
+      }
+    ]
+  },
+  "cta": {
+    "title": "send us the task you hate most.",
+    "body": "a few lines is enough. we reply within one working day.",
+    "button": {
+      "label": "start a project",
+      "href": "/contact"
+    }
+  }
+}

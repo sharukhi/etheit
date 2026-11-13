@@ -1,0 +1,49 @@
+{
+  "title": "work",
+  "lead": "stores and systems we've built, and the manual work they replaced. open a project for the full write-up.",
+  "sampleNote": "sample entries show the kind of build we take on. they get replaced as real projects ship.",
+  "items": [
+    {
+      "slug": "etherealbd",
+      "title": "a clothing store that runs its own sales",
+      "client": "etherealbd.com",
+      "tags": [
+        "shopify",
+        "website",
+        "store"
+      ],
+      "summary": "a shopify store for a bangladeshi clothing brand. collections for denim, formals, tops and bottoms, and sale prices that show the old price next to the new one, in taka.",
+      "stack": [
+        "shopify",
+        "custom theme"
+      ],
+      "sample": false,
+      "image": "/projects/et.webp",
+      "imageAlt": "collections to cart to checkout"
+    },
+    {
+      "slug": "infinex-store",
+      "title": "a supplement store with hundreds of products",
+      "client": "getinfinex.store",
+      "tags": [
+        "woocommerce",
+        "website",
+        "store"
+      ],
+      "summary": "a woocommerce store for imported supplements. browse by brand, save to a wishlist, pay through a payment page built for local methods.",
+      "stack": [
+        "woocommerce",
+        "wordpress",
+        "local payment gateway"
+      ],
+      "sample": false,
+      "image": "/projects/in.webp",
+      "imageAlt": "brand page to wishlist to payment"
+    }
+  ],
+  "back": "all work",
+  "ctaTitle": "have a task like this?",
+  "ctaBody": "tell us what it is. we reply within one working day.",
+  "ctaLabel": "start a project",
+  "readLabel": "read the write-up"
+}

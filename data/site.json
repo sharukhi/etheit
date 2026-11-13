@@ -1,0 +1,70 @@
+{
+  "name": "etheit",
+  "tagline": "home",
+  "description": "etheit builds the automations behind your website: payments, orders, leads and the busywork between them.",
+  "email": "contactethe.it@gmail.com",
+  "location": "",
+  "nav": [
+        {
+      "label": "home",
+      "href": "/"
+    },
+    {
+      "label": "work",
+      "href": "/projects"
+    },
+    {
+      "label": "about",
+      "href": "/about"
+    },
+    {
+      "label": "contact",
+      "href": "/contact"
+    }
+  ],
+  "cta": {
+    "label": "start a project",
+    "href": "/contact"
+  },
+  "tickerEnabled": false,
+  "ticker": [
+    "taking on new projects",
+    "website automation",
+    "fixed price after the first call",
+    "built in dhaka",
+    "we reply within one working day",
+    "no purchase necessary to ask a question"
+  ],
+  "socials": [
+    {
+      "label": "github",
+      "href": ""
+    },
+    {
+      "label": "linkedin",
+      "href": ""
+    },
+    {
+      "label": "instagram",
+      "href": ""
+    }
+  ],
+  "footer": {
+    "blurb": "website automation, built in dhaka.",
+    "note": "you own everything we build for you."
+  },
+  "theme": {
+    "bg": "#FFF2A7",
+    "paper": "#FFFBE3",
+    "ink": "#2A1118",
+    "accent": "#D9406A",
+    "sun": "#FFD84D",
+    "muted": "#6B5148",
+    "onAccent": "#FFFFFF",
+    "pattern": {
+      "color": "#2A1118",
+      "opacity": 0.17,
+      "size": 14
+    }
+  }
+}
