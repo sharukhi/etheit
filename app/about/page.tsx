@@ -12,12 +12,6 @@ export default function About() {
   const show = about.sections; // true / false per section in data/about.json
   return (
     <div className="wrap page">
-      {(about.title || about.lead) && (
-        <header className="page__head">
-          {about.title && <h1 className="h-xl">{about.title}</h1>}
-          {about.lead && <p className="lead">{about.lead}</p>}
-        </header>
-      )}
 
       {show.story && (
         <section className="section section--flush">
