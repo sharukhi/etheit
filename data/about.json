@@ -5,14 +5,10 @@
     "principles": false,
     "crew": false
   },
-  "title": "small on purpose.",
-  "lead": "etheit is a website automation agency in dhaka, run by sharukhi.",
   "storyTitle": "the story behind etheit",
-  "storyQuote": "the expensive part of most online businesses isn't the website. it's the manual work wrapped around it.",
+  "storyQuote": "we ran into the same mess. so we built the fix.",
   "story": [
-    "sharukhi is a self-taught developer. he started with browser extensions and python scripts, moved on to web apps, and kept noticing the same thing: the expensive part of most online businesses isn't the website. it's the manual work wrapped around it.",
-    "etheit exists to remove that work. we build the connections between your website and everything else, test them on real data, and write down how they work.",
-    "we stay small so the person you talk to is the person who builds it."
+    "we ran into this ourselves. spreadsheets for orders, payments checked by hand, leads lost in an inbox. then we started seeing the same thing in every business around us. the website was rarely the problem. the manual work around it was. so we started building the connections: websites, software, and the small systems between them. we test them on real data and write down how they work. we stay small, so the person you talk to is the person who builds it."
   ],
   "principlesTitle": "how we work",
   "principles": [
@@ -65,14 +61,14 @@
       "name": "sharukhi",
       "role": "co-founder, development",
       "bio": "self-taught developer. started with browser extensions and python scripts, then web apps. builds the integrations and writes down how they work.",
-      "photo": "",
+      "photo": "/sharukhi.jpg",
       "color": "var(--accent)"
     },
     {
       "name": "co-founder name",
       "role": "co-founder, role",
       "bio": "a line or two about them: background, what they own at etheit, and what they care about getting right.",
-      "photo": "",
+      "photo": "/shafi.webp",
       "color": "var(--sun)"
     }
   ]

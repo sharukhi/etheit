@@ -17,8 +17,7 @@ export default function FounderCard({ f, sample = false }: { f: Founder; sample?
       <div className="founder__txt">
         <h3 className="h-md">{f.name}</h3>
         <p className="founder__role">{f.role}</p>
-        <p className="card__body">{f.bio}</p>
-        {sample && <span className="tag tag--sample">sample text</span>}
+        <p className="card__body">{f.bio}</p> 
       </div>
     </Card>
   );

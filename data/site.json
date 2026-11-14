@@ -1,9 +1,11 @@
 {
   "name": "etheit",
-  "tagline": "home",
+  "tagline": "websites and custom software for your business",
   "description": "etheit builds the automations behind your website: payments, orders, leads and the busywork between them.",
-  "email": "contactethe.it@gmail.com",
-  "location": "",
+  "email": "hi@etheit.com",
+  "number": "+8809611331289",
+  "location": "Ethereal, 1 Dr Amanat Khan Hospital Rd, Dhaka 1216, Bangladesh",
+  "map_link": "https://maps.app.goo.gl/1kaJrMc5aQrp3MxKA",
   "nav": [
         {
       "label": "home",
@@ -37,21 +39,20 @@
   ],
   "socials": [
     {
-      "label": "github",
-      "href": ""
-    },
-    {
-      "label": "linkedin",
-      "href": ""
+      "label": "facebook",
+      "href": "https://facebook.com/etheit.hq"
     },
     {
       "label": "instagram",
-      "href": ""
+      "href": "https://instagram.com/etheit.hq"
+    },
+    {
+      "label": "github",
+      "href": "https://github.com/etheit"
     }
   ],
   "footer": {
-    "blurb": "website automation, built in dhaka.",
-    "note": "you own everything we build for you."
+    "blurb": "websites and custom software for your business."  
   },
   "theme": {
     "bg": "#FFF2A7",

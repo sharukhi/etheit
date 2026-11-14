@@ -18,11 +18,11 @@
         "custom theme"
       ],
       "sample": false,
-      "image": "/projects/et.webp",
+      "image": "/projects/ethereal.gif",
       "imageAlt": "collections to cart to checkout"
     },
     {
-      "slug": "infinex-store",
+      "slug": "infinex",
       "title": "a supplement store with hundreds of products",
       "client": "getinfinex.store",
       "tags": [
@@ -37,7 +37,7 @@
         "local payment gateway"
       ],
       "sample": false,
-      "image": "/projects/in.webp",
+      "image": "/projects/infinex.gif",
       "imageAlt": "brand page to wishlist to payment"
     }
   ],

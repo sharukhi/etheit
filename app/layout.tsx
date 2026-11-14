@@ -10,9 +10,19 @@ import Footer from "@/components/Footer";
 const display = Bricolage_Grotesque({ subsets: ["latin"], variable: "--font-display", display: "swap" });
 const mono = Space_Mono({ subsets: ["latin"], weight: ["400", "700"], variable: "--font-mono", display: "swap" });
 
+
 export const metadata: Metadata = {
+  metadataBase: new URL("https://etheit.com"),
   title: { default: `${site.name} | ${site.tagline}`, template: `%s | ${site.name}` },
   description: site.description,
+  openGraph: {
+    title: "etheit",
+    siteName: "etheit.com",
+    url: "https://etheit.com",
+    description: "websites and custom software for your business",
+    type: "website",
+    images: ["/og.png"],
+  },
 };
 
 export const viewport: Viewport = { themeColor: site.theme.bg, width: "device-width", initialScale: 1 };
@@ -22,6 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${display.variable} ${mono.variable}`} style={themeStyle()} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
+        <meta name="apple-mobile-web-app-title" content="etheit" />
       </head>
       <body>
         <a href="#main" className="skip">skip to content</a>
